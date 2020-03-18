@@ -2941,18 +2941,6 @@
           ],
           "Alternatives": [
             {
-              "AlternativeName": "Aqueous solubility",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Templeton 2011",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
-            {
               "AlternativeName": "Optimized",
               "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
             }
@@ -3726,18 +3714,6 @@
           ],
           "Alternatives": [
             {
-              "AlternativeName": "Aqueous solubility",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Templeton 2011",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
-            {
               "AlternativeName": "Optimized",
               "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
             }
@@ -4508,18 +4484,6 @@
           ],
           "Alternatives": [
             {
-              "AlternativeName": "Aqueous solubility",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Templeton 2011",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
-            {
               "AlternativeName": "Optimized",
               "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
             }
@@ -5267,18 +5231,6 @@
           ],
           "Alternatives": [
             {
-              "AlternativeName": "Aqueous solubility",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Templeton 2011",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
-            {
               "AlternativeName": "Optimized",
               "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
             }
@@ -5709,18 +5661,6 @@
             "Cellular permeability - PK-Sim Standard"
           ],
           "Alternatives": [
-            {
-              "AlternativeName": "Aqueous solubility",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Templeton 2011",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
             {
               "AlternativeName": "Optimized",
               "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
@@ -6153,18 +6093,6 @@
           ],
           "Alternatives": [
             {
-              "AlternativeName": "Aqueous solubility",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Templeton 2011",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
-            {
               "AlternativeName": "Optimized",
               "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
             }
@@ -6596,18 +6524,6 @@
           ],
           "Alternatives": [
             {
-              "AlternativeName": "Aqueous solubility",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Templeton 2011",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
-            {
               "AlternativeName": "Optimized",
               "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
             }
@@ -6730,8 +6646,7 @@
       "Name": "Kharasch 2011 75 µg/kg PO and 5 mg Rifampicin",
       "Model": "4Comp",
       "ObservedData": [
-        "Kharasch 2011 - po with Perpetrator (Rifampicin @ 5 mg) - Alfentanil - PO - 75 µg/kg - Plasma - agg. (n=12)",
-        "Kharasch 2011 - po with Perpetrator (Rifampicin @ 10 mg) - Alfentanil - PO - 75 µg/kg - Plasma - agg. (n=12)"
+        "Kharasch 2011 - po with Perpetrator (Rifampicin @ 5 mg) - Alfentanil - PO - 75 µg/kg - Plasma - agg. (n=12)"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -7050,18 +6965,6 @@
             "Cellular permeability - PK-Sim Standard"
           ],
           "Alternatives": [
-            {
-              "AlternativeName": "Aqueous solubility",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Templeton 2011",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
             {
               "AlternativeName": "Optimized",
               "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
@@ -7513,8 +7416,7 @@
       "Name": "Kharasch 2011 75 µg/kg PO and 10 mg Rifampicin",
       "Model": "4Comp",
       "ObservedData": [
-        "Kharasch 2011 - po with Perpetrator (Rifampicin @ 10 mg) - Alfentanil - PO - 75 µg/kg - Plasma - agg. (n=12)",
-        "Kharasch 2011 - po with Perpetrator (Rifampicin @ 25 mg) - Alfentanil - PO - 75 µg/kg - Plasma - agg. (n=12)"
+        "Kharasch 2011 - po with Perpetrator (Rifampicin @ 10 mg) - Alfentanil - PO - 75 µg/kg - Plasma - agg. (n=12)"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -7834,18 +7736,6 @@
           ],
           "Alternatives": [
             {
-              "AlternativeName": "Aqueous solubility",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Templeton 2011",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
-            {
               "AlternativeName": "Optimized",
               "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
             }
@@ -7968,8 +7858,7 @@
       "Name": "Kharasch 2011 75 µg/kg PO and 25 mg Rifampicin",
       "Model": "4Comp",
       "ObservedData": [
-        "Kharasch 2011 - po with Perpetrator (Rifampicin @ 25 mg) - Alfentanil - PO - 75 µg/kg - Plasma - agg. (n=12)",
-        "Kharasch 2011 - po with Perpetrator (Rifampicin @ 75 mg) - Alfentanil - PO - 75 µg/kg - Plasma - agg. (n=12)"
+        "Kharasch 2011 - po with Perpetrator (Rifampicin @ 25 mg) - Alfentanil - PO - 75 µg/kg - Plasma - agg. (n=12)"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -8288,18 +8177,6 @@
             "Cellular permeability - PK-Sim Standard"
           ],
           "Alternatives": [
-            {
-              "AlternativeName": "Aqueous solubility",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Templeton 2011",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
             {
               "AlternativeName": "Optimized",
               "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
@@ -8742,18 +8619,6 @@
             "Cellular permeability - PK-Sim Standard"
           ],
           "Alternatives": [
-            {
-              "AlternativeName": "Aqueous solubility",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Templeton 2011",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
             {
               "AlternativeName": "Optimized",
               "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
@@ -9966,18 +9831,6 @@
           ],
           "Alternatives": [
             {
-              "AlternativeName": "Aqueous solubility",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Templeton 2011",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
-            {
               "AlternativeName": "Optimized",
               "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
             }
@@ -10409,18 +10262,6 @@
           ],
           "Alternatives": [
             {
-              "AlternativeName": "Aqueous solubility",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Templeton 2011",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
-            {
               "AlternativeName": "Optimized",
               "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
             }
@@ -10499,6 +10340,15 @@
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Kharasch 2011b 1 mg IV simultaneous and 600 mg Rifampicin-Rifampicin-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Kharasch 2011b 1 mg IV simultaneous and 600 mg Rifampicin|Organism|PeripheralVenousBlood|Rifampicin|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3
               }
             }
           ],
@@ -10862,18 +10712,6 @@
             "Cellular permeability - PK-Sim Standard"
           ],
           "Alternatives": [
-            {
-              "AlternativeName": "Aqueous solubility",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Templeton 2011",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
             {
               "AlternativeName": "Optimized",
               "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
@@ -11316,18 +11154,6 @@
             "Cellular permeability - PK-Sim Standard"
           ],
           "Alternatives": [
-            {
-              "AlternativeName": "Aqueous solubility",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Templeton 2011",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
             {
               "AlternativeName": "Optimized",
               "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
@@ -12072,18 +11898,6 @@
           ],
           "Alternatives": [
             {
-              "AlternativeName": "Aqueous solubility",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            },
-            {
-              "AlternativeName": "Templeton 2011",
-              "GroupName": "COMPOUND_FRACTION_UNBOUND"
-            },
-            {
               "AlternativeName": "Optimized",
               "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
             }
@@ -12529,18 +12343,18 @@
           "Date": "0001-01-01T00:00:00"
         },
         "Values": [
-          121.52,
-          121.55,
-          121.58,
-          121.67,
-          121.75,
+          120.52,
+          120.55,
+          120.58,
+          120.67,
+          120.75,
+          121.0,
+          121.25,
+          121.5,
           122.0,
-          122.25,
           122.5,
-          123.0,
           123.5,
-          124.5,
-          125.5
+          124.5
         ],
         "Dimension": "Time",
         "Unit": "h"
@@ -15580,21 +15394,21 @@
             "MolWeight": 416.52
           },
           "Values": [
-            0.02146815,
-            0.01201073,
-            0.009381846,
-            0.005725625,
-            0.0044717,
-            0.00268842187,
-            0.001688115,
-            0.001156474,
-            0.000747630431,
-            0.000417995383,
-            0.000266321615,
-            0.00012141779
+            21.46815,
+            12.01073,
+            9.381845,
+            5.725625,
+            4.4717,
+            2.688422,
+            1.688115,
+            1.156474,
+            0.7476305,
+            0.4179954,
+            0.2663216,
+            0.121417791
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/l"
         }
       ],
       "BaseGrid": {
@@ -16170,6 +15984,59 @@
         "Dimension": "Time",
         "Unit": "h"
       }
+    }
+  ],
+  "ObservedDataClassifications": [
+    {
+      "Name": "Kharasch 1997",
+      "Classifiables": [
+        "Kharasch 1997 - Control (Perpetrator Placebo) - Alfentanil - IV - 20 µg/kg - Plasma - agg. (n=9)",
+        "Kharasch 1997 - with Perpetrator (Rifampicin) - Alfentanil - IV - 20 µg/kg - Plasma - agg. (n=9)"
+      ]
+    },
+    {
+      "Name": "Kharasch 2004",
+      "Classifiables": [
+        "Kharasch 2004 - iv Control (Perpetrator Placebo) - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=10)",
+        "Kharasch 2004 - iv with Perpetrator (Rifampicin) - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=10)",
+        "Kharasch 2004 - po #1 (60 µg/kg) Control (Perpetrator Placebo) - Alfentanil - PO - 60 µg/kg - Plasma - agg. (n=10)",
+        "Kharasch 2004 - po #1 (60 µg/kg) with Perpetrator (Rifampicin) - Alfentanil - PO - 60 µg/kg - Plasma - agg. (n=10)"
+      ]
+    },
+    {
+      "Name": "Kharasch 2011",
+      "Classifiables": [
+        "Kharasch 2011 - iv Control (Perpetrator Placebo) - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)",
+        "Kharasch 2011 - iv with Perpetrator (Rifampicin @ 5 mg) - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)",
+        "Kharasch 2011 - iv with Perpetrator (Rifampicin @ 10 mg) - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)",
+        "Kharasch 2011 - iv with Perpetrator (Rifampicin @ 25 mg) - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)",
+        "Kharasch 2011 - iv with Perpetrator (Rifampicin @ 75 mg) - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=12)",
+        "Kharasch 2011 - po Control (Perpetrator Placebo) - Alfentanil - PO - 75 µg/kg - Plasma - agg. (n=12)",
+        "Kharasch 2011 - po with Perpetrator (Rifampicin @ 5 mg) - Alfentanil - PO - 75 µg/kg - Plasma - agg. (n=12)",
+        "Kharasch 2011 - po with Perpetrator (Rifampicin @ 10 mg) - Alfentanil - PO - 75 µg/kg - Plasma - agg. (n=12)",
+        "Kharasch 2011 - po with Perpetrator (Rifampicin @ 25 mg) - Alfentanil - PO - 75 µg/kg - Plasma - agg. (n=12)",
+        "Kharasch 2011 - po with Perpetrator (Rifampicin @ 75 mg) - Alfentanil - PO - 75 µg/kg - Plasma - agg. (n=12)"
+      ]
+    },
+    {
+      "Name": "Phimmasone 2001",
+      "Classifiables": [
+        "Phimmasone 2001 - Control (Perpetrator Placebo) - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=6)",
+        "Phimmasone 2001 - with Perpetrator (Rifampicin) - Alfentanil - IV - 15 µg/kg - Plasma - agg. (n=6)"
+      ]
+    },
+    {
+      "Name": "Kharasch 2011b",
+      "Classifiables": [
+        "Kharasch 2011b - Alfentanil IV Control sequential - Alfentanil - IV - 1 mg - Plasma - agg. (n=6)",
+        "Kharasch 2011b - Alfentanil IV Rifampin coadmin sequential - Alfentanil - IV - 1 mg - Plasma - agg. (n=6)",
+        "Kharasch 2011b - Alfentanil IV Control simultaneous - Alfentanil - IV - 1 mg - Plasma - agg. (n=6)",
+        "Kharasch 2011b - Alfentanil IV Rifampin coadmin simultaneous - Alfentanil - IV - 1 mg - Plasma - agg. (n=6)",
+        "Kharasch 2011b - Alfentanil PO Control sequential - Alfentanil - PO - 4 mg - Plasma - agg. (n=6)",
+        "Kharasch 2011b - Alfentanil PO Rifampin coadmin sequential - Alfentanil - PO - 4 mg - Plasma - agg. (n=6)",
+        "Kharasch 2011b - Alfentanil PO Control simultaneous - Alfentanil - PO - 4 mg - Plasma - agg. (n=6)",
+        "Kharasch 2011b - Alfentanil PO Rifampin coadmin simultaneous - Alfentanil - PO - 4 mg - Plasma - agg. (n=6)"
+      ]
     }
   ]
 }
