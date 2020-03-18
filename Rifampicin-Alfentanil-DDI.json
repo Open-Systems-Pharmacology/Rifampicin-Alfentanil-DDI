@@ -3016,14 +3016,14 @@
               "Y": "Kharasch 1997 - with Perpetrator (Rifampicin) - Alfentanil - IV - 20 µg/kg - Plasma - agg. (n=9)|ObservedData|Peripheral Venous Blood|Plasma|Alfentanil|ArithmeticMean",
               "CurveOptions": {
                 "Color": "#FF0000",
-                "LegendIndex": 2,
+                "LegendIndex": 3,
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Rifampicin-Alfentanil-DDI\nKharasch 1997 20 µg/kg IV and Rifampicin\n2019-11-29 15:46"
+          "OriginText": "Rifampicin-Alfentanil-DDI\nKharasch 1997 20 µg/kg IV and Rifampicin\n2020-03-18 17:28"
         }
       ],
       "Interactions": [
@@ -12313,21 +12313,21 @@
             "MolWeight": 416.52
           },
           "Values": [
-            0.1300991,
-            0.07076779,
-            0.0454499,
-            0.02761753,
-            0.02244879,
-            0.01463241,
-            0.008656852,
-            0.00630338071,
-            0.003388536,
-            0.002063534,
-            0.0005412647,
-            0.0003125443
+            130.099091,
+            70.76779,
+            45.4499,
+            27.61753,
+            22.44879,
+            14.63241,
+            8.656852,
+            6.303381,
+            3.388536,
+            2.063534,
+            0.5412647,
+            0.3125443
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/l"
         }
       ],
       "BaseGrid": {
