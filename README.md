@@ -9,8 +9,8 @@ Within this repository, we distribute a PK-Sim project file containing simulatio
 
 The reference model repositories can be found here:
 
-- Rifampicin [[1](#reference)]
-- Alfentanil [[2](#reference)]
+- [Rifampicin OSP PBPK model](https://github.com/Open-Systems-Pharmacology/Rifampicin-Model)
+- [Alfentanil OSP PBPK model](https://github.com/Open-Systems-Pharmacology/Alfentanil-Model)
 
 ## Code of conduct
 
@@ -23,10 +23,3 @@ We encourage contribution to the Open Systems Pharmacology community. Before get
 ## License
 
 The model code is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
-
-## Reference
-
-[1] [Rifampicin OSP PBPK model](https://github.com/Open-Systems-Pharmacology/Rifampicin-Model)
-
-[2] [Alfentanil OSP PBPK model](https://github.com/Open-Systems-Pharmacology/Alfentanil-Model)
-
